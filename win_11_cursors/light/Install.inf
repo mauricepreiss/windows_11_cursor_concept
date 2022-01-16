@@ -1,6 +1,6 @@
 [Version]
 signature="$CHICAGO$"
-Windows 11 Cursors Concept Light v2 By JepriCreations
+Windows 11 Cursors - Light (Maurice Preiß)
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur
@@ -58,7 +58,7 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 
 [Strings]
 CUR_DIR     = "Cursors\Windows_11_light_v2"
-SCHEME_NAME = "Windows 11 Cursors Light v2 by Jepri Creations"
+SCHEME_NAME = "Windows 11 Cursors - Light (Maurice Preiß)"
 pointer		= "pointer.cur"
 help		= "help.cur"
 working		= "working.ani"
